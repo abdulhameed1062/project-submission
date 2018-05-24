@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{49BBD8CD-B471-15AC-0E8B-043E8CAAC41A}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/AssetDownloader.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Character.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/DropMe.cs" Line="73" Column="32" />
+      <File FileName="Assets/Scripts/DragMe.cs" Line="11" Column="5" />
+      <File FileName="Assets/Scripts/AssetDownloader.cs" Line="44" Column="1" />
+      <File FileName="Assets/Editor/ExportAssetBundles.cs" Line="10" Column="48" />
+      <File FileName="Assets/Scripts/Counter.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

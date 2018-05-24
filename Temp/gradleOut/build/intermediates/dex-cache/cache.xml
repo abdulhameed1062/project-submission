@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/RichFlair/Algorythma_Final/Temp/gradleOut/libs/unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="eeb3d12a367b7e030481d07007327cbd1c3f020b">
+        <dex dex="/RichFlair/Algorythma_Final/Temp/gradleOut/build/intermediates/pre-dexed/release/unity-classes_1da438569a45a9d9bb08ab6a5edd2a3d4deccc43.jar" />
+    </item>
+
+</items>
